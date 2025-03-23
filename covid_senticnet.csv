@@ -1,0 +1,100 @@
+CONCEPT,INTROSPECTION,TEMPER,ATTITUDE,SENSITIVITY,PRIMARY EMOTION,SECONDARY EMOTION,POLARITY VALUE,POLARITY INTENSITY,SEMANTICS
+budget & funding,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+health emergency appeals,-0.306,-0.229,-0.191,-0.153,#grief,#loathing,-0.382,0.382,N/A
+governing bodies,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+executive board,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+covid-19 vaccine delivery toolkit,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+all topics,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+who coronavirus (covid-19) dashboard,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+excessive heat,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+routine health information systems,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+health inequality,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+"external
+												links",0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+global health estimates,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+careers & jobs,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+covid-19 training,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+situation reports,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+collaborating centres,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+investment in who,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+"mission &
+											organization",0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+about who,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+no fear act,0.31,0.233,0.194,0.155,#contentment,#acceptance,0.388,0.388,N/A
+red or irritated eyes.,-0.367,-0.275,-0.23,-0.184,#grief,#loathing,-0.459,0.459,N/A
+terms of use,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+frequently asked questions,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+press conferences,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+health topics/,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+world health assembly,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+questions and answers,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+country strengthening,0.395,0.296,0.247,0.198,#contentment,#acceptance,0.494,0.494,N/A
+"vulnerability
+												disclosure policy",-0.181,-0.136,-0.113,-0.09,#grief,#loathing,-0.226,0.226,N/A
+coronavirus disease (covid-19),0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+general programme of work,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+committees and advisory groups,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+mission & organization,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+triple billion progress,0.337,0.253,0.21,0.168,#contentment,#acceptance,0.421,0.421,N/A
+technical teams,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+external audit,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+member states portal,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+"budget
+											& funding",0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+results reports,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+who academy,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+about cdc,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+news releases,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+covid-19 technology access pool,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+international health regulations,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+who we are,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+health inequality monitor,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+country cooperation strategies,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+"vulnerability
+										disclosure policy",-0.181,-0.136,-0.113,-0.09,#grief,#loathing,-0.226,0.226,N/A
+south-east asia,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+who foundation,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+advice for the public,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+western pacific,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+sore throat,-0.289,-0.217,-0.18,-0.144,#grief,#loathing,-0.361,0.361,N/A
+web policies,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+all countries,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+data by country,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+aches and pains,-0.469,-0.352,-0.293,-0.234,#grief,#loathing,-0.586,0.586,N/A
+call 800-232-4636,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+greater horn of africa,0.289,0.217,0.18,0.144,#contentment,#acceptance,0.361,0.361,N/A
+photo library,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+covid-19 dashboard,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+chest pain.,-0.409,-0.307,-0.256,-0.204,#grief,#loathing,-0.511,0.511,N/A
+world health statistics,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+fact sheets,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+information disclosure,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+health topics,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+feature stories,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+uhc global monitoring report,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+financial statements,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+cdc archive,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+country presence,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+data hub,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+contact cdc,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+contact us,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+tools and toolkits,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+covid-19 ihr emergency committee,-0.306,-0.229,-0.191,-0.153,#grief,#loathing,-0.382,0.382,N/A
+coronavirus disease (covid-19) pandemic,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+myth busters,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+permissions and licensing,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+weekly epidemiological record,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+internal audit and investigations,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+covid-19 clinical care pathway,0.395,0.296,0.247,0.198,#contentment,#acceptance,0.494,0.494,N/A
+facts in pictures,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+mental disorders,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+preventing sexual exploitation,-0.021,-0.016,-0.013,-0.01,#grief,#loathing,-0.026,0.026,N/A
+programme budget,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+gis centre for health,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+organizational structure,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+delivery for impact,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+disease outbreak news,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+eastern mediterranean,0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+"external
+										links",0.0,0.0,0.0,0.0,#neutral,None,0.0,0.0,N/A
+harmonized health facility assessment,0.306,0.229,0.191,0.153,#contentment,#acceptance,0.382,0.382,N/A
